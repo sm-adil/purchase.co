@@ -4,12 +4,12 @@ Product management website used to store and maintain the products to be sold by
 
 ## Project details
 
-This project is built using Core PHP and MySQL database. The website is designed and developed by [Me](https://gihub.com/mohammed-adil).
+This project is built using Core PHP and MySQL database. The website is designed and developed by [Me](https://gihub.com/mohammed-adil).  Check out the project in action in [purchase.co](http://purchase-co.000webhostapp.com/).
 
 ## Project setup
 
 To test the project in local machine PHP, MySQL database are needed to be installed in the system.
-We can do this by simply installing XAMPP or WAMP or MAMP software in our systems. Check out the project in action in [purchase.co](http://purchase-co.000webhostapp.com/).
+We can do this by simply installing XAMPP or WAMP or MAMP software in our systems.
 
 - After installing the above software, we need to import the sample data into our MySQL database.
 - Clone the project into your machine.
