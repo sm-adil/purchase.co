@@ -9,7 +9,7 @@ This project is built using Core PHP and MySQL database. The website is designed
 ## Project setup
 
 To test the project in local machine PHP, MySQL database are needed to be installed in the system.
-We can do this by simply installing XAMPP or WAMP or MAMP software in our systems. 
+We can do this by simply installing XAMPP or WAMP or MAMP software in our systems. Check out the project in action in [purchase.co](http://purchase-co.000webhostapp.com/).
 
 - After installing the above software, we need to import the sample data into our MySQL database.
 - Clone the project into your machine.
